@@ -1,4 +1,4 @@
-# Resources for General and Organic Chemistry
+# Resources for Chemistry
 
 **[Chemical Principles I (CHEM 1211K)](https://github.com/mevans86/chem-1211k) at Georgia Tech.** A first-semester course in general chemistry. Of note is that the entirety of chemical thermodynamics typically covered across the two-semester general chemistry sequence is covered in CHEM 1211K at Georgia Tech. Topics covered include models and representations of atoms, ions, and molecules, the mole, models of aqueous solutions, precipitation reactions, stoichiometry, thermochemistry, gases, chemical thermodynamics, the quantum model of the atom, periodic trends, Lewis structures, molecular geometry, theories of covalent bonding, and intermolecular forces.
 
